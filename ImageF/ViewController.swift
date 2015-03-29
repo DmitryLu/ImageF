@@ -98,7 +98,7 @@ class ViewController:
         return searches[index].searchResults[index]
     }
     
-//MARK: - Counts & Chechings-
+//MARK: - Counts & Checking-
     
     // iOS > 8.0
     override func viewWillTransitionToSize(size: CGSize, withTransitionCoordinator coordinator: UIViewControllerTransitionCoordinator) {
@@ -124,7 +124,6 @@ class ViewController:
         }
     }
 
-    
     func checkInputValuesToTextBox(inputText:NSString)->NSString{
         var outText:NSString = inputText.stringByReplacingOccurrencesOfString(" ", withString:"")
         
