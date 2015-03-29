@@ -50,7 +50,6 @@ UIViewController{
                     self.searches.insert(results!, atIndex: 0)
                     self.drawImageToView()
                 }
-                
             }
         }
         textField.text = nil

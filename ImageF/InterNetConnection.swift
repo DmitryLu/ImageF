@@ -31,5 +31,4 @@ public class Reachability {
         
         return (isReachable && !needsConnection) ? true : false
     }
-    
 }

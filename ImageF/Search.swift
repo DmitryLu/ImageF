@@ -28,7 +28,7 @@ class FlickrPhoto : Equatable {
         self.server = server
         self.secret = secret
     }
-    //m
+    
     func flickrImageURL(size:String = "b") -> NSURL {
         let temp = NSURL(string: "http://farm\(farm).staticflickr.com/\(server)/\(photoID)_\(secret)_\(size).jpg")
         println("\(temp)")
