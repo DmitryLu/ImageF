@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>9841887E-DE6B-4B7D-8FBA-671715276FBA</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ImageF</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>B067E794BD4CB9114E2B4D7A821378452E4A2AC1</key>
+		<string>https://github.com/DmitryLu/ImageF.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ImageF.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>B067E794BD4CB9114E2B4D7A821378452E4A2AC1</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/DmitryLu/ImageF.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>B067E794BD4CB9114E2B4D7A821378452E4A2AC1</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>B067E794BD4CB9114E2B4D7A821378452E4A2AC1</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ImageF</string>
+		</dict>
+	</array>
+</dict>
+</plist>
